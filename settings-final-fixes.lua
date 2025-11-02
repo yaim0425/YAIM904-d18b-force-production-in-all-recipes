@@ -44,12 +44,7 @@ table.insert(This_MOD.setting, {
     type = "int",
     name = "value",
     localised_name = { "item-group-name.production" },
-    localised_description =
-        "Min. 1\n" ..
-        "Max. 100\n" ..
-        "Def. 10",
-    minimum_value = 1,
-    maximum_value = 100,
+    allowed_values = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 },
     default_value = 10
 })
 
