@@ -148,6 +148,11 @@ function This_MOD.update_recipe(space)
 
     space.recipe.allow_productivity = true
     space.recipe.maximum_productivity = This_MOD.setting.value
+    for _, result in pairs(space.recipe.results or {}) do
+        if not result.ignored_by_productivity then
+            result.ignored_by_productivity = 0
+        end
+    end
 
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 end
