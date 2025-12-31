@@ -1,12 +1,12 @@
 {
-  "name": "YAIM0425-d18b-force-production-in-all-recipes",
+  "name": "YAIM904-d18b-force-production-in-all-recipes",
   "version": "0.0.1",
-  "title": "YAIM0425 d18b Force production in all recipes",
-  "author": "YAIM0425",
+  "title": "YAIM904 d18b Force production in all recipes",
+  "author": "YAIM904",
   "factorio_version": "2.0",
   "description": "Make all recipes affected by productivity modules. [[I accept suggestions]]",
-  "homepage": "https://github.com/yaim0425/YAIM0425-d18b-force-production-in-all-recipes",
+  "homepage": "https://github.com/yaim0425/YAIM904-d18b-force-production-in-all-recipes",
   "dependencies": [
-    "YAIM0425-d00b-core"
+    "YAIM904-d00b-core"
   ]
 }
