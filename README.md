@@ -1,12 +1,14 @@
 # YAIM904 d18b – Force Production in All Recipes ⚙️📈
 
+---
+
 ## 📦 Description
 
 **YAIM904 d18b – Force Production in All Recipes** allows **productivity modules to affect all recipes**, including those that are normally excluded in vanilla Factorio.
 
 This MOD removes standard restrictions and forces productivity bonuses to apply universally, enabling higher output from every production chain.
 
-It is especially useful for megabases, experimental factories, and players who want maximum production efficiency.
+It is especially useful for megabases, experimental factories and players who want maximum production efficiency.
 
 ---
 
@@ -45,7 +47,7 @@ Production mechanics remain the same, except that productivity is always allowed
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
